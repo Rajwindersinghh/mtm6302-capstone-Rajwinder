@@ -9,4 +9,8 @@ result
 
 
 part 2
+
+![image](https://github.com/Rajwindersinghh/mtm6302-capstone-Rajwinder/assets/133885650/3a1cd6ca-e862-4b9b-b776-8dbb510011bf)
+
+
 ![image](https://github.com/Rajwindersinghh/mtm6302-capstone-Rajwinder/assets/133885650/c95355af-5dfb-4930-919b-19a4122e7d1e)
