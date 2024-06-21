@@ -10,3 +10,7 @@ result
 
 part 2
 ![image](https://github.com/Rajwindersinghh/mtm6302-capstone-Rajwinder/assets/133885650/c95355af-5dfb-4930-919b-19a4122e7d1e)
+
+part 3
+
+![image](https://github.com/Rajwindersinghh/mtm6302-capstone-Rajwinder/assets/133885650/8dec26c8-2da9-4ee9-b778-71003a7483df)
